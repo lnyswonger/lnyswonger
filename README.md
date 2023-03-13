@@ -31,6 +31,16 @@ Outside of work, I enjoy spending time with my wife and two furry friends in the
 - Jeeps
 - Dogs
 
+## 📖 I'm currently learning
+
+- Artificial Intellegience (AI)
+    - Generative AI & ChatGPT
+    - Azure OpenAI
+    - Responsible AI
+- Prompt Engineering
+- Power BI
+- Python
+
 ## 📫 Get In Touch
 
 - Medium: [medium.com/@lnyswonger](https://medium.com/@lnyswonger)
