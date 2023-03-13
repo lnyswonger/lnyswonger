@@ -1,16 +1,44 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**lnyswonger/lnyswonger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Luke Nyswonger, a documentation manager with a passion for technology, homebrewing, craft beer, jeeps, and dogs. 
 
-Here are some ideas to get you started:
+## 📝 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Born and raised in Kansas, I'm a proud US Veteran with over 25 years of experience in the software industry. My career has taken me on a journey through various roles, including web and multimedia development, support engineer, technical writer, content manager, and digital experience leader. I've worn multiple hats, serving as both an individual contributor and a people manager, leading small and large teams across various disciplines.
+
+With 18+ years' experience at Microsoft, I currently lead our technical content and learning teams for Azure for Operators (A4O). As a seasoned leader, I take pride in fostering a culture of collaboration and innovation within my team.
+
+Outside of work, I enjoy spending time with my wife and two furry friends in the greater Seattle area. I also have two grown children who reside in Southern California.
+
+
+## 💻 Skills
+
+- Organizational Leadership
+- People Management
+- Technical Writing
+- Content Strategy
+- Content Management Systems
+- Data & Information Management
+- Scripting & Automation
+- Microsoft Office
+- Web Development
+- Graphic Design
+
+## 🌟 Interests
+
+- Homebrewing 
+- Technology
+- Jeeps
+- Dogs
+
+## 📫 Get In Touch
+
+- Medium: [medium.com/@lnyswonger](https://medium.com/@lnyswonger)
+- LinkedIn: [linkedin.com/in/lnyswonger](https://www.linkedin.com/in/lnyswonger/)
+- Twitter: [twitter.com/lnyswonger](https://twitter.com/lnyswonger)
+
+
+## 🏆 GitHub Stats
+
+![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnyswonger&show_icons=true&theme=radical)
+
