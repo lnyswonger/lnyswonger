@@ -8,7 +8,7 @@ Born and raised in Kansas, I'm a proud US Veteran with over 25 years of experien
 
 With 18+ years' experience at Microsoft, I currently lead our technical content and learning teams for Azure for Operators (A4O). As a seasoned leader, I take pride in fostering a culture of collaboration and innovation within my team.
 
-Outside of work, I enjoy spending time with my wife and two furry friends in the greater Seattle area. I also have two grown children who reside in Southern California.
+Outside of work, I enjoy spending time with my wife and two furry friends in the greater Seattle area. I also have two grown children who reside in Southern California. 🌴
 
 
 ## 💻 Skills
