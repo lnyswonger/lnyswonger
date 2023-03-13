@@ -26,8 +26,8 @@ Outside of work, I enjoy spending time with my wife and two furry friends in the
 
 ## 🌟 Interests
 
-- Homebrewing 
 - Technology
+- Homebrewing 
 - Jeeps
 - Dogs
 
