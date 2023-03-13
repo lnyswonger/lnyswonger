@@ -33,7 +33,7 @@ Outside of work, I enjoy spending time with my wife and two furry friends in the
 
 ## 📖 I'm currently learning
 
-- Artificial Intellegience (AI)
+- Artificial Intelligence (AI)
     - Generative AI & ChatGPT
     - Azure OpenAI
     - Responsible AI
