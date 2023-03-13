@@ -40,5 +40,6 @@ Outside of work, I enjoy spending time with my wife and two furry friends in the
 
 ## 🏆 GitHub Stats
 
-![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnyswonger&show_icons=true&theme=radical)
+![Luke's GitHub stats including private contributions](https://github-readme-stats.vercel.app/api?username=lnyswonger&show_icons=true&theme=radical&count_private=true)
+
 
