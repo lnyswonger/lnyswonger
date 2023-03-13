@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Luke Nyswonger, a documentation manager with a passion for technology, homebrewing, craft beer, jeeps, and dogs. 
+I'm Luke Nyswonger, a documentation manager with a passion for technology, homebrewing, craft beer, jeeps, soccer, and dogs. 
 
 ## 📝 About Me
 
