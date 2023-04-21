@@ -23,6 +23,7 @@ Outside of work, I enjoy spending time with my wife and two furry friends in the
 - Microsoft Office
 - Web Development
 - Graphic Design
+- Maker Skills (e.g., Adalo)
 
 ## 🌟 Interests
 
