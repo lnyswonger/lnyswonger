@@ -39,7 +39,7 @@ Outside of work, I enjoy spending time with my wife and two furry friends in the
     - Azure OpenAI
     - Responsible AI
 - Prompt Engineering
-- Power BI
+- Power Platform
 - Python
 
 ## 📫 Get In Touch
