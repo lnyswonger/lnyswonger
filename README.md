@@ -10,6 +10,8 @@ With 18+ years' experience at Microsoft, I currently lead our technical content 
 
 Outside of work, I enjoy spending time with my wife and two furry friends in the greater Seattle area. I also have two grown children who reside in Southern California. 🏄🏻‍♀️🏖️🌴
 
+Founder: [Homebrewing.ai](http://www.homebrewing.ai)
+
 
 ## 💻 Skills
 
@@ -28,7 +30,7 @@ Outside of work, I enjoy spending time with my wife and two furry friends in the
 ## 🌟 Interests
 
 - Technology
-- Homebrewing 
+- [Homebrewing](http://www.homebrewing.ai)
 - Jeeps
 - Motorcycles
 - Dogs
