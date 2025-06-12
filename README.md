@@ -30,10 +30,11 @@ Outside of work, I enjoy spending time with my family in Southern California. �
 ## 🌟 Interests
 
 - Technology
-- [Homebrewing](http://www.homebrewing.ai)
+- Homebrewing
 - Jeeps
 - Motorcycles
 - Dogs
+- MLS: San Diego FC
 
 ## 📖 I'm currently learning
 
