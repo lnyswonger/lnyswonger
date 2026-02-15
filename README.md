@@ -6,7 +6,7 @@ I'm Luke Nyswonger, a documentation manager with a passion for technology, homeb
 
 Born and raised in Kansas, I'm a proud US Veteran with over 25 years of experience in the software industry. My career has taken me on a journey through various roles, including web and multimedia development, support engineer, technical writer, content manager, and digital experience leader. I've worn multiple hats, serving as both an individual contributor and a people manager, leading small and large teams across various disciplines.
 
-With 20 years' experience at Microsoft, I currently lead our technical content and learning teams for Azure for Operators (AFO). As a seasoned leader, I take pride in fostering a culture of collaboration and innovation within my team.
+With 22+ years' experience at Microsoft, I currently lead our Azure Patterns & Practices team. As a seasoned leader, I take pride in fostering a culture of collaboration and innovation within my team.
 
 Outside of work, I enjoy spending time with my family in Southern California. 🏄🏻‍♀️🏖️🌴
 
