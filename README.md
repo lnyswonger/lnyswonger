@@ -10,9 +10,6 @@ With 20 years' experience at Microsoft, I currently lead our technical content a
 
 Outside of work, I enjoy spending time with my family in Southern California. 🏄🏻‍♀️🏖️🌴
 
-🚀 Founder: [Homebrewing.ai](http://www.homebrewing.ai)
-
-
 ## 💻 Skills
 
 - Organizational Leadership
