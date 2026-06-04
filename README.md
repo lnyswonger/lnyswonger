@@ -10,7 +10,7 @@ I spent more than 22 years at Microsoft, most recently leading Azure Patterns & 
 
 I care deeply about creating useful, accurate, scalable content experiences. I enjoy connecting strategy with execution, building healthy teams, improving publishing systems, and finding practical ways to use AI in documentation and content workflows.
 
-Outside of work, I enjoy spending time with my family, exploring Southern California and Las Vegas, hiking, golf, running, watching soccer, experimenting with homebrewing, and hanging out with our dogs. 🐕🌴
+Outside of work, I enjoy spending time with my family, exploring Southern California and Nevada, hiking, golf, running, watching soccer, experimenting with homebrewing, and hanging out with our dogs. 🐕🌴
 
 ## 💻 Skills
 
