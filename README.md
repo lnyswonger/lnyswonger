@@ -45,13 +45,13 @@ Outside of work, I enjoy spending time with my family, exploring Southern Califo
 
 - Artificial Intelligence
   - Generative AI
-  - Azure OpenAI
-  - Responsible AI
-  - AI-assisted content workflows
-- Prompt engineering
+  - AI agents and agentic workflows
+  - Retrieval-Augmented Generation (RAG)
+  - Azure OpenAI and Microsoft Foundry
+  - Responsible AI and AI governance
+  - AI-assisted content authoring
+  - AI evaluation, quality, and trust
 - Python
-- Power Platform
-- Modern content operations
 
 ## 📫 Get In Touch
 
@@ -59,6 +59,3 @@ Outside of work, I enjoy spending time with my family, exploring Southern Califo
 - LinkedIn: [linkedin.com/in/lnyswonger](https://www.linkedin.com/in/lnyswonger/)
 - X/Twitter: [twitter.com/lnyswonger](https://twitter.com/lnyswonger)
 
-## 🏆 GitHub Stats
-
-![Luke's GitHub stats including private contributions](https://github-readme-stats.vercel.app/api?username=lnyswonger&show_icons=true&theme=radical&count_private=true)
