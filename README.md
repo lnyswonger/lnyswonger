@@ -1,57 +1,64 @@
 # Hi there! 👋
 
-I'm Luke Nyswonger, a documentation manager with a passion for technology, homebrewing, craft beer, jeeps, motorcycles, soccer, and dogs. 
+I'm Luke Nyswonger, a documentation and digital experience leader with a long-running passion for technology, content strategy, AI-assisted authoring, homebrewing, craft beer, dogs, and making things better than I found them.
 
 ## 📝 About Me
 
-Born and raised in Kansas, I'm a proud US Veteran with over 25 years of experience in the software industry. My career has taken me on a journey through various roles, including web and multimedia development, support engineer, technical writer, content manager, and digital experience leader. I've worn multiple hats, serving as both an individual contributor and a people manager, leading small and large teams across various disciplines.
+Born and raised in Kansas, I'm a proud U.S. Navy veteran with over 25 years of experience in the software industry. My career has spanned web and multimedia development, support engineering, technical writing, content management, content strategy, and digital experience leadership.
 
-With 22+ years' experience at Microsoft, I currently lead our Azure Patterns & Practices team. As a seasoned leader, I take pride in fostering a culture of collaboration and innovation within my team.
+I spent more than 22 years at Microsoft, most recently leading Azure Patterns & Practices in Microsoft Learn, including work across the Azure Architecture Center, Cloud Adoption Framework, Well-Architected Framework, and Reliability guidance. Along the way, I've worked as both an individual contributor and people manager, leading small and large teams across writing, engineering, design, product, and program management disciplines.
 
-Outside of work, I enjoy spending time with my family in Southern California. 🏄🏻‍♀️🏖️🌴
+I care deeply about creating useful, accurate, scalable content experiences. I enjoy connecting strategy with execution, building healthy teams, improving publishing systems, and finding practical ways to use AI in documentation and content workflows.
+
+Outside of work, I enjoy spending time with my family, exploring Southern California and Las Vegas, watching soccer, experimenting with homebrewing, and hanging out with our dogs. 🐕🌴
 
 ## 💻 Skills
 
-- Organizational Leadership
-- People Management
-- Technical Writing
-- Content Strategy
-- Content Management Systems
-- Data & Information Management
-- Scripting & Automation
-- Microsoft Office
-- Web Development
-- Graphic Design
-- Maker
+- Documentation leadership
+- Content strategy
+- People management
+- Technical writing
+- Information architecture
+- Digital experience
+- Content operations
+- AI-assisted authoring workflows
+- Content management systems
+- Data-informed decision making
+- Scripting and automation
+- Web development
+- Cross-functional collaboration
 
 ## 🌟 Interests
 
 - Technology
+- Artificial intelligence
 - Homebrewing
-- Jeeps
-- Motorcycles
+- Craft beer
 - Dogs
+- Motorcycles
+- Jeeps
+- Soccer
 - MLS: San Diego FC
+- Maker projects
 
 ## 📖 I'm currently learning
 
-- Artificial Intelligence (AI)
-    - Generative AI & ChatGPT
-    - Azure OpenAI
-    - Responsible AI
-- Prompt Engineering
-- Power Platform
+- Artificial Intelligence
+  - Generative AI
+  - Azure OpenAI
+  - Responsible AI
+  - AI-assisted content workflows
+- Prompt engineering
 - Python
+- Power Platform
+- Modern content operations
 
 ## 📫 Get In Touch
 
 - Medium: [medium.com/@lnyswonger](https://medium.com/@lnyswonger)
 - LinkedIn: [linkedin.com/in/lnyswonger](https://www.linkedin.com/in/lnyswonger/)
-- Twitter: [twitter.com/lnyswonger](https://twitter.com/lnyswonger)
-
+- X/Twitter: [twitter.com/lnyswonger](https://twitter.com/lnyswonger)
 
 ## 🏆 GitHub Stats
 
 ![Luke's GitHub stats including private contributions](https://github-readme-stats.vercel.app/api?username=lnyswonger&show_icons=true&theme=radical&count_private=true)
-
-
