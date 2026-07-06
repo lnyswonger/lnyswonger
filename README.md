@@ -1,61 +1,79 @@
 # Hi there! 👋
 
-I'm Luke Nyswonger, a documentation and digital experience leader with a long-running passion for technology, content strategy, AI-assisted authoring, homebrewing, craft beer, dogs, and making things better than I found them.
+I'm Luke Nyswonger, a technical content and learning experience leader with a long-running passion for helping people understand complex technology. My work sits at the intersection of content strategy, learning platforms, customer education, knowledge systems, AI-enabled workflows, and team leadership.
 
 ## 📝 About Me
 
-Born and raised in Kansas, I'm a proud U.S. Navy veteran with over 25 years of experience in the software industry. My career has spanned web and multimedia development, support engineering, technical writing, content management, content strategy, and digital experience leadership.
+Born and raised in Kansas, I'm a proud U.S. Navy veteran with 25+ years of experience helping technical audiences understand, adopt, and succeed with complex products.
 
-I spent more than 22 years at Microsoft, most recently leading Azure Patterns & Practices in Microsoft Learn, including work across the Azure Architecture Center, Cloud Adoption Framework, Well-Architected Framework, and Reliability guidance. Along the way, I've worked as both an individual contributor and people manager, leading small and large teams across writing, engineering, design, product, and program management disciplines.
+My career started in developer support, where I worked directly with customers, became deeply familiar with product issues, and learned how useful knowledge can scale when it is captured well. That foundation led me into technical writing, product documentation, developer education, content strategy, learning platforms, and global content leadership roles.
 
-I care deeply about creating useful, accurate, scalable content experiences. I enjoy connecting strategy with execution, building healthy teams, improving publishing systems, and finding practical ways to use AI in documentation and content workflows.
+I spent more than 22 years at Microsoft across two chapters of my career, with work spanning BizTalk Server, Windows Mobile and Windows Phone, Office 365, Developer Relations, Worldwide Learning, Microsoft Learn, certification, and Azure guidance. Most recently, I led Azure Patterns & Practices in Microsoft Learn, including the Azure Architecture Center, Cloud Adoption Framework, Well-Architected Framework, Reliability guidance, and Azure Migration Hub.
 
-Outside of work, I enjoy spending time with my family, exploring Southern California and Nevada, hiking, golf, running, watching soccer, experimenting with homebrewing, and hanging out with our dogs. 🐕🌴
+Along the way, I have also led digital experience, Help Center, and customer learning platform work at Hootsuite and Avalara.
 
-## 💻 Skills
+I care deeply about creating useful, accurate, scalable learning and content experiences. I enjoy connecting strategy with execution, building healthy teams, improving publishing systems, using data to guide decisions, and finding practical ways to apply AI in content and learning workflows.
 
-- Documentation leadership
-- Content strategy
-- People management
-- Technical writing
-- Information architecture
-- Digital experience
-- Content operations
-- AI-assisted authoring workflows
-- Content management systems
-- Data-informed decision making
-- Scripting and automation
-- Web development
+Outside of work, I enjoy spending time with my family, exploring Southern California and Nevada, walking, hiking, golf, soccer, homebrewing, craft beer, and hanging out with our dogs. 🐕🌴
+
+## 💻 Core Capabilities
+
+- Technical content strategy
+- Learning experience design
+- Customer and developer education
+- Knowledge management
+- Help Centers and documentation platforms
+- LMS, CMS, and learning platforms
+- Content operations and governance
+- AI-enabled content workflows
+- Portfolio planning and content health
+- Analytics and data-informed decision making
+- Program and portfolio leadership
+- Team leadership and talent development
+- Strategic planning and OKRs
 - Cross-functional collaboration
+
+## 🤖 AI and Content Innovation
+
+I'm especially interested in how AI can improve the way teams create, maintain, evaluate, and scale technical knowledge.
+
+Areas I am exploring include:
+
+- AI-assisted authoring
+- AI content evaluation and quality
+- Retrieval-Augmented Generation, or RAG
+- AI agents and agentic workflows
+- Content generation and transformation
+- Knowledge systems and content governance
+- Responsible AI and trust
+- Microsoft Copilot, Azure OpenAI, and Microsoft Foundry
+
+I'm also a named inventor on a published U.S. patent application related to LLM-based generation of technical documentation.
 
 ## 🌟 Interests
 
 - Technology
 - Artificial intelligence
+- Learning design
+- Knowledge systems
 - Homebrewing
 - Craft beer
 - Dogs
-- Motorcycles
-- Jeeps
+- Golf
 - Soccer
-- MLS: San Diego FC
+- San Diego FC
 - Maker projects
 
-## 📖 I'm currently learning
+## 📖 I'm Currently Learning
 
-- Artificial Intelligence
-  - Generative AI
-  - AI agents and agentic workflows
-  - Retrieval-Augmented Generation (RAG)
-  - Azure OpenAI and Microsoft Foundry
-  - Responsible AI and AI governance
-  - AI-assisted content authoring
-  - AI evaluation, quality, and trust
+- Artificial intelligence and applied AI workflows
+- Learning design and learning technology
+- AI-assisted content operations
 - Python
+- Portfolio projects that connect AI, content, and learning systems
 
 ## 📫 Get In Touch
 
 - Medium: [medium.com/@lnyswonger](https://medium.com/@lnyswonger)
 - LinkedIn: [linkedin.com/in/lnyswonger](https://www.linkedin.com/in/lnyswonger/)
 - X/Twitter: [twitter.com/lnyswonger](https://twitter.com/lnyswonger)
-
