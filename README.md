@@ -6,7 +6,7 @@ I'm Luke Nyswonger, a technical content and learning experience leader with a lo
 
 Born and raised in Kansas, I'm a proud U.S. Navy veteran with 25+ years of experience helping technical audiences understand, adopt, and succeed with complex products.
 
-My career started in developer support, where I worked directly with customers, became deeply familiar with product issues, and learned how useful knowledge can scale when it is captured well. That foundation led me into technical writing, product documentation, developer education, content strategy, learning platforms, and global content leadership roles.
+My career started in developer support, where I worked directly with customers, wrote hundreds of knowledge base articles, learned the Knowledge-Centered Service (KCS) model of content development, and became a content lead within support. That early experience taught me how useful knowledge can scale when it is captured and structured well, and it became the foundation for my move into technical writing, product documentation, developer education, content strategy, learning platforms, and global content leadership roles.
 
 I spent more than 22 years at Microsoft across two chapters of my career, with work spanning BizTalk Server, Windows Mobile and Windows Phone, Office 365, Developer Relations, Worldwide Learning, Microsoft Learn, certification, and Azure guidance. Most recently, I led Azure Patterns & Practices in Microsoft Learn, including the Azure Architecture Center, Cloud Adoption Framework, Well-Architected Framework, Reliability guidance, and Azure Migration Hub.
 
@@ -35,7 +35,7 @@ Outside of work, I enjoy spending time with my family, exploring Southern Califo
 
 ## 🤖 AI and Content Innovation
 
-I'm especially interested in how AI can improve the way teams create, maintain, evaluate, and scale technical knowledge.
+I'm especially interested in the overlap between learning engineering, content strategy, AI, and knowledge systems: how we design, measure, improve, and scale learning experiences using data, technology, and human-centered design.
 
 Areas I am exploring include:
 
@@ -48,7 +48,7 @@ Areas I am exploring include:
 - Responsible AI and trust
 - Microsoft Copilot, Azure OpenAI, and Microsoft Foundry
 
-I'm also a named inventor on a published U.S. patent application related to LLM-based generation of technical documentation.
+I'm also a named inventor on a patent-pending, published U.S. patent application related to LLM-based generation of technical documentation.
 
 ## 🌟 Interests
 
@@ -61,13 +61,14 @@ I'm also a named inventor on a published U.S. patent application related to LLM-
 - Dogs
 - Golf
 - Soccer
-- San Diego FC
+- Hiking
+- MLS | San Diego FC
 - Maker projects
 
 ## 📖 I'm Currently Learning
 
 - Artificial intelligence and applied AI workflows
-- Learning design and learning technology
+- Learning design, learning technology, and learning engineering
 - AI-assisted content operations
 - Python
 - Portfolio projects that connect AI, content, and learning systems
