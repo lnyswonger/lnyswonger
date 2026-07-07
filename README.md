@@ -45,7 +45,6 @@ Areas I am exploring include:
 - AI agents and agentic workflows
 - Content generation and transformation
 - Knowledge systems and content governance
-- Responsible AI and trust
 - Microsoft Copilot, Azure OpenAI, and Microsoft Foundry
 
 I'm also a named inventor on a patent-pending, published U.S. patent application related to LLM-based generation of technical documentation.
@@ -69,9 +68,8 @@ I'm also a named inventor on a patent-pending, published U.S. patent application
 
 - Artificial intelligence and applied AI workflows
 - Learning design, learning technology, and learning engineering
-- AI-assisted content operations
+- Vibe coding and rapid prototyping with tools like Replit
 - Python
-- Portfolio projects that connect AI, content, and learning systems
 
 ## 📫 Get In Touch
 
