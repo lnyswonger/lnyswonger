@@ -74,7 +74,7 @@ I'm also a named inventor on a patent-pending, published U.S. patent application
 ## 📫 Get In Touch
 
 - Website: [lukenyswonger.com](https://www.lukenyswonger.com)
-- Replit Community: [community-hub.replit.app/profile/lnyswonger](https://community-hub.replit.app/profile/lnyswonger)
+- Replit: [community-hub.replit.app/profile/lnyswonger](https://community-hub.replit.app/profile/lnyswonger)
 - Medium: [medium.com/@lnyswonger](https://medium.com/@lnyswonger)
 - LinkedIn: [linkedin.com/in/lnyswonger](https://www.linkedin.com/in/lnyswonger/)
 - X/Twitter: [twitter.com/lnyswonger](https://twitter.com/lnyswonger)
